@@ -1,0 +1,12 @@
+.heading {
+  font-weight: 400;
+  color: #000;
+}
+
+.line {
+  width: 140px;
+  height: 2px;
+  background-color: #67b6ac;
+  margin: 0 auto;
+  margin-bottom: 32px;
+}
